@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lalitsingh
 - 👀 I’m interested in AI and Automation
-- 🌱 I’m currently learning Selenium and API Automation
-- 💞️ I’m looking to collaborate on Automation and Deep learning projects
+- 🌱 I’m currently learning new trends in AI space
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 Reachout to me on lalitsingh5522@gmail.com
 
 <!---
